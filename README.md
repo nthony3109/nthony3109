@@ -1,10 +1,49 @@
-- 👋 Hi, I’m @nthony3109
-- 👀 I’m interested in github
-- 🌱 I’m currently learning ..Web development.
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me on email chibuzoranthonyajibo@gmail.com 
+Hi, I'm AJIBO CHIBUZOR ANTHONY 👋
 
-<!---
-nthony3109/nthony3109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Backend Developer | Java & Spring Boot
+📍 Nigeria
+
+I enjoy building reliable backend systems and solving real-world problems with code.
+Currently focused on improving my skills in Java backend development and the Spring ecosystem.
+
+---
+
+ Current Focus
+
+- Building backend applications with Java & Spring Boot
+- Spring Security & Authentication
+- Designing RESTful APIs
+- Working on financial and enterprise-style backend projects
+
+---
+
+Tech Stack
+
+Backend: 
+. Java 
+• Spring Boot 
+• Spring Security
+Frontend Basics: 
+• HTML5
+• CSS3 
+• JavaScript
+• REACT JS
+Database: 
+• PostgreSQL
+• MySQL
+Tools:
+• Git
+• GitHub 
+• IntelliJ IDEA
+• Vs code
+• Maven 
+• Postman
+
+
+🎯 Goal
+
+To grow into a highly skilled backend engineer building secure and scalable enterprise applications.
+
+---
+
+⭐ Always learning. Always building.
