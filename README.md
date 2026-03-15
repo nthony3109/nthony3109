@@ -1,4 +1,4 @@
-Hi, I'm AJIBO CHIBUZOR ANTHONY 👋
+Hi, I'm AJIBO CHIBUZOR ANTHONY 
 
 💻 Backend Developer | Java & Spring Boot
 📍 Nigeria
