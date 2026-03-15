@@ -1,4 +1,4 @@
-Hi, I'm AJIBO CHIBUZOR ANTHONY 
+Hi, I'm Tony Dev 
 
 💻 Backend Developer | Java & Spring Boot
 📍 Nigeria
